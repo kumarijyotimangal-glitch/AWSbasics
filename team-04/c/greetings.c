@@ -12,7 +12,7 @@ int main() {
         printf("You are not eligible to participate.\n");
     }
 
-    printf("Your age is: %d\n", year);
+    printf("Your age is: %d\n", age);
 
     return 0;
 }
