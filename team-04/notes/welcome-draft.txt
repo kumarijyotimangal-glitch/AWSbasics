@@ -1,13 +1,10 @@
 AWS CLUB — TEAM WELCOME DRAFT
 
-Team Number: 01
-Team Name: CHANGE_ME
+Team Number: 04
+Team Name: team 04
 
 Team Members:
-- MEMBER_1
-- MEMBER_2
-- MEMBER_3
-- MEMBER_4
+Jyoti 
 
 Use first names or nicknames only. Add or remove member lines as needed.
 
@@ -15,12 +12,12 @@ About Our Team:
 We are beginners learning Linux commands and GitHub collaboration.
 
 Three Things We Want to Learn:
-1. CHANGE_ME
-2. CHANGE_ME
-3. CHANGE_ME
+1. Linux commands
+2. AWS basics
+3. Web development
 
 Our Team Motto:
-CHANGE_ME
+Learn, Build, Grow
 
 Editing Instructions:
 1. Copy this original file into the backup folder.
